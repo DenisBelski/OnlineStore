@@ -80,7 +80,7 @@ namespace OnlineFruitStore
                     Console.WriteLine("\nChoose number of product which you want to add:");
                     int productNumber = GetInputNumber();
 
-                    if (productNumber <= 0 || productNumber > 6)
+                    if (productNumber <= 0 || productNumber > 14)
                     {
                         Console.Write("\nThis is not valid input. Please use only available numbers. ");
                         onlineStore.ShowCatalog();

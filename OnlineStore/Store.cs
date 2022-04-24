@@ -14,8 +14,16 @@
             new Product("Lemon", 3),
             new Product("Melon", 5),
             new Product("Apple", 7),
-            new Product("Strawberry", 6),
-            new Product("Orange", 5),
+            new Product("Pear", 6),
+            new Product("Orange", 7),
+            new Product("Lime", 2),
+            new Product("Mango", 9),
+            new Product("Grapes", 6),
+            new Product("Watermelon", 4),
+            new Product("Kiwi", 8),
+            new Product("Peach", 6),
+            new Product("Tangerine", 4),
+            new Product("Fig", 6),
             };
 
             Basket = new List<Product>();
